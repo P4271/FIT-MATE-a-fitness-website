@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/FIT-MATE-a-fitness-website/static/css/main.94fec84d.chunk.css",
+    "main.js": "/FIT-MATE-a-fitness-website/static/js/main.820517cc.chunk.js",
+    "main.js.map": "/FIT-MATE-a-fitness-website/static/js/main.820517cc.chunk.js.map",
+    "runtime-main.js": "/FIT-MATE-a-fitness-website/static/js/runtime-main.626fb60f.js",
+    "runtime-main.js.map": "/FIT-MATE-a-fitness-website/static/js/runtime-main.626fb60f.js.map",
+    "static/js/2.d7f4b7f1.chunk.js": "/FIT-MATE-a-fitness-website/static/js/2.d7f4b7f1.chunk.js",
+    "static/js/2.d7f4b7f1.chunk.js.map": "/FIT-MATE-a-fitness-website/static/js/2.d7f4b7f1.chunk.js.map",
+    "index.html": "/FIT-MATE-a-fitness-website/index.html",
+    "static/css/main.94fec84d.chunk.css.map": "/FIT-MATE-a-fitness-website/static/css/main.94fec84d.chunk.css.map",
+    "static/js/2.d7f4b7f1.chunk.js.LICENSE.txt": "/FIT-MATE-a-fitness-website/static/js/2.d7f4b7f1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.626fb60f.js",
+    "static/js/2.d7f4b7f1.chunk.js",
+    "static/css/main.94fec84d.chunk.css",
+    "static/js/main.820517cc.chunk.js"
+  ]
+}
